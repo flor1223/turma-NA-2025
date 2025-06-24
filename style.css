@@ -11,5 +11,6 @@ p{
     font-size: 20px;
 }
 header{
-    border: solid 2px rgb(255, 196, 0); 
+    border-bottom: solid 2px rgb(255, 196, 0); 
+    padding: 20px;
 }
